@@ -12,7 +12,12 @@ components:
   properties: {}
   name: navbar_links
   layout_properties: {slot: nav-right}
-- name: label_1
-  properties: {text: Online Thrift Shop}
-  type: Label
+  components:
+  - type: Link
+    properties: {}
+    name: link_2
+    layout_properties: {}
+- type: Link
+  properties: {}
+  name: link_1
   layout_properties: {slot: title}
