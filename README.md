@@ -1,3 +1,16 @@
+During High School I was in a class called Mentor Field where you would job shadow someone in the field you would like to go in. I job shadowed a software engineer at Target Corp. where I learned many basics such as API's and how to code using Python. As my final project for this class I had help from my mentor to create a mock website for an online clothing store. This website was created using a service called Anvil (where there information is below) which is a helpful tool to create apps. This is just a mock website with fake images but it taught me how to create different tabs within an app and how to create a login button. More details of my findings are located in the Mentorship Project PDF file.
+
+
+
+
+
+
+
+
+
+
+
+
 # About This [Anvil](https://anvil.works/?utm_source=github:app_README) App
 
 ### Build web apps with nothing but Python.
